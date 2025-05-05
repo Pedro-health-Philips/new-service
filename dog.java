@@ -9,7 +9,7 @@ public class dog(){
     }
 
     public void correr(){
-        system.out.prinln("O cachorro correu");
+        system.out.prinln("O cachorro morreu);
     }
 
 }
