@@ -4,12 +4,8 @@ public class dog(){
     private int idade;
     private char genero;
 
-    public void latir(){
-        system.out.prinln("AU AU!");
-    }
-
-    public void correr(){
-        system.out.prinln("O cachorro morreu);
+    public void comer(){
+        system.out.prinln("Cachorro comeu ração");
     }
 
 }
