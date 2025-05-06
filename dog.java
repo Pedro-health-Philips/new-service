@@ -34,10 +34,4 @@ public class Dog(){
     
     public void setGenero(char genero) {
         this.genero = genero;
- .
-
-}
-
-
-   
 }
